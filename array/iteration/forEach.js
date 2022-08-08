@@ -13,3 +13,8 @@ myForEach( newArray, ( value, index, arr ) => {
      console.log(value, index, arr);
      
 } );
+
+
+newArray.forEach( ( value, index, arr ) => {
+     console.log(value, index, arr);
+})
