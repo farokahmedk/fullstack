@@ -61,10 +61,16 @@ const arr3 = myFilter(students, (value) => {
   return value.due;
 });
 
-// console.log( arr3 );
+// console.log(arr3);
 
-const arr4 = myFilter(arr2, (value) => value < 5);
-console.log(arr4);
+const arr4 = myFilter(arr1, (value) => value.due);
+// console.log(arr4);
 
-const arr5 = myFilter(arr1, (value) => value.due);
-console.log(arr5);
+const msgArr = arr4.map((value) => {
+  return {
+    ...value,
+    msg: "contact with accountant",
+  };
+});
+
+console.log(msgArr);
