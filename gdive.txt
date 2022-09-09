@@ -1,5 +1,0 @@
-AIzaSyDHkJOUmXjisgKJ1TJVP1AhzQJrME6ZvQo
-AIzaSyC373xmMsXi5qgz9ENEVoS4bq_JMxkYmas
-
-https://www.googleapis.com/drive/v3/files/file-ID?alt=media&key=APIKey
-https://www.googleapis.com/drive/v3/files/1OoT4tcckHwjeMYGQRyDch29eHxx0Jl9w?alt=media&key=AIzaSyC373xmMsXi5qgz9ENEVoS4bq_JMxkYmas

@@ -132,5 +132,5 @@ dist
 
 /.prettierrc
 .vscode/
-/gdrive.txt
+gdrive.txt
 
