@@ -3,7 +3,7 @@ let p1 = new Promise((resolve, reject) => {
 });
 
 p1.then((res) => {
-  console.log(res);
+  // console.log(res);
 });
 
 let p2 = new Promise((resolve, reject) => {
@@ -11,5 +11,5 @@ let p2 = new Promise((resolve, reject) => {
 });
 
 p2.then((res) => {
-  console.log(res);
+  // console.log(res);
 });
